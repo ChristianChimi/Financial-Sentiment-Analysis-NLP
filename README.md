@@ -11,3 +11,7 @@ Evaluation
 Prediction
 - User provides a new sentence
 - The model returns the predicted sentiment
+
+EDA
+- Find features and lenght for every class
+- Find most common words
