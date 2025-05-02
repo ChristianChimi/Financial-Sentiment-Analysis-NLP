@@ -4,8 +4,10 @@ The model was trained on a dataset containing sentences labeled with the corresp
 Processing
 - Train a classification model
 - Predict the sentiment of unseen input sentences
+  
 Evaluation
 - Metrics used: Accuracy, Precision, Recall, F1-score
+
 Prediction
 - User provides a new sentence
 - The model returns the predicted sentiment
