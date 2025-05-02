@@ -13,5 +13,9 @@ Prediction
 - The model returns the predicted sentiment
 
 EDA
-- Find features and lenght for every class
-- Find most common words
+- Text Length Analysis
+    - Compared average number of words per sentence by sentiment class
+    - Positive sentences were slightly longer on average
+- Frequent Words per Sentiment
+    - Most common words in each class identified
+    - Removed stopwords to focus on meaningful tokens
