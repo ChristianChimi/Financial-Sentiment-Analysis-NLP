@@ -18,3 +18,6 @@ The model was trained on a dataset containing sentences labeled with the corresp
 - Frequent Words per Sentiment
     - Most common words in each class identified
     - Removed stopwords to focus on meaningful tokens
+
+## **Technologies Used**
+- **Python**, **Pandas**, **Numpy**, **Scikit-learn**, **Nltk**
