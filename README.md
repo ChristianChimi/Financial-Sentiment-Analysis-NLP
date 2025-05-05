@@ -6,8 +6,8 @@ This project leverages Natural Language Processing (NLP) techniques to classify 
 - The project follows a structured NLP workflow to train and evaluate the sentiment classification model:
 - Training the Classification Model:
   - A machine learning model (such as Logistic Regression, Naive Bayes, or Random Forest) was trained on the labeled dataset to learn the patterns and associations between the text and sentiment labels.
-  - Sentiment Prediction:
-- After training, the model is capable of predicting the sentiment (positive or negative) of unseen input sentences.
+- Sentiment Prediction:
+  - After training, the model is capable of predicting the sentiment (positive or negative) of unseen input sentences.
   - Evaluation Metrics:
     - Accuracy: The proportion of correctly classified sentences.
     - Precision: The proportion of correctly predicted positive sentences out of all predicted positives.
