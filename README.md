@@ -19,7 +19,7 @@ This project leverages Natural Language Processing (NLP) techniques to classify 
 - Compared average number of words per sentence by sentiment class
 - Frequent Words per Sentiment
 - Most common words in each class identified
-- Stopwords (e.g., "the", "and", "is") were removed to focus on more meaningful tokens, providing clearer insights into the content of the sentences and improving the accuracy of the sentiment model.
+- Stopwords (for example "the", "and", "is") were removed to focus on more meaningful tokens, providing clearer insights into the content of the sentences and improving the accuracy of the sentiment model.
 
 ## **Key insights**
 - Sentence Length: Positive sentences tend to be slightly longer than negative ones, suggesting that more elaborate or detailed content may be associated with positive sentiment in financial text.
@@ -27,7 +27,7 @@ This project leverages Natural Language Processing (NLP) techniques to classify 
 - Model Performance: The classification model showed a solid ability to predict sentiment, with metrics such as accuracy, precision, recall, and F1-score providing a balanced view of its effectiveness in distinguishing between positive and negative sentiment.
 
 ## **Conclusions**
-This project demonstrates how Natural Language Processing (NLP) can be leveraged to analyze financial text data and classify sentiment effectively. By training a machine learning model on labeled data, we were able to classify sentences as either positive or negative, offering valuable insights for applications like market sentiment analysis or customer feedback analysis. The project also highlighted the importance of text features, such as sentence length and common word usage, in improving sentiment classification accuracy. Overall, NLP techniques are powerful tools for understanding financial sentiment, providing businesses and analysts with actionable insights.
+This project demonstrates how Natural Language Processing (NLP) can be leveraged to analyze financial text data and classify sentiment effectively. By training a machine learning model on labeled data, we were able to classify sentences as either positive neutral or negative, offering valuable insights for applications like market sentiment analysis or customer feedback analysis..
 
 ## **Technologies Used**
  - **Python**, **Pandas**, **Numpy**, **Scikit-learn**, **Nltk**
