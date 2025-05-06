@@ -1,4 +1,4 @@
-## **Financial Sentiment Analytics - NLP**
+# **Financial Sentiment Analytics - NLP**
 ## **Overview**
 This project leverages Natural Language Processing (NLP) techniques to classify the sentiment of sentences into two categories: positive or negative. The model was trained on a labeled dataset containing sentences paired with their corresponding sentiment labels. The goal is to understand and classify the underlying sentiment in financial text data, which can be useful for applications such as market sentiment analysis or customer feedback analysis.
 
